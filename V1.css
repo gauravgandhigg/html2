@@ -1,0 +1,18 @@
+h4{
+	font-style:italic;
+	padding:20px;
+}
+	
+div.one
+	{
+		border:red;
+		background-color:
+		padding:20px;
+	}
+div.two
+	{
+		 border-left: 6px solid red;
+		background-color: #ADD8E6;
+		padding:20px;
+	}
+
